@@ -75,8 +75,19 @@ Open terminal and try execute some kali linux commands
 
 # DNS Enumeration
 
+<img width="736" height="534" alt="image" src="https://github.com/user-attachments/assets/bf43a1f9-19f3-4a90-a049-14e850f3db49" />
+
 
 ## DNS Recon
+
+ provides the ability to perform:
+ Check all NS records for zone transfers
+ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
+ Perform common SRV Record Enumeration
+ Top level domain expansion
+
+<img width="746" height="603" alt="image" src="https://github.com/user-attachments/assets/bb21a594-6fae-4950-9a29-98392372574c" />
+
 
 | Record Type | Meaning                        | Example Output                   |
 | ----------- | ------------------------------ | -------------------------------- |
@@ -101,6 +112,22 @@ Open terminal and try execute some kali linux commands
 
 
 ## OUTPUT:
+# NSLOOKUP
+<img width="752" height="812" alt="image" src="https://github.com/user-attachments/assets/4d09669d-a5d7-43e9-983a-b87b395dd52f" />
+# DIG
+<img width="726" height="564" alt="image" src="https://github.com/user-attachments/assets/fec89592-9804-48d2-91a5-5e5636741f9b" />
+# HOST
+<img width="750" height="447" alt="image" src="https://github.com/user-attachments/assets/67f39315-8ad0-4d37-8536-155e1731829d" />
+# DNSENUM
+<img width="733" height="543" alt="image" src="https://github.com/user-attachments/assets/7c1e5164-50a3-4edc-b3c2-f1d8fb7342f1" />
+# DNSRECON
+<img width="746" height="603" alt="image" src="https://github.com/user-attachments/assets/bb21a594-6fae-4950-9a29-98392372574c" />
+
+# FIERCE 
+
+<img width="742" height="762" alt="image" src="https://github.com/user-attachments/assets/3836a9af-37da-448a-ac8d-ae7fbbcee8dd" />
+# Harvestor
+<img width="739" height="705" alt="image" src="https://github.com/user-attachments/assets/f31dcc14-9a74-41ee-8ca0-b1bc96359f82" />
 
 ## Architecture Diagram 
 ```
