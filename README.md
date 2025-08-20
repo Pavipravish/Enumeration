@@ -57,6 +57,21 @@ Open terminal and try execute some kali linux commands
 
 # Output:
 
+<img width="1899" height="967" alt="image" src="https://github.com/user-attachments/assets/09f05aea-ded5-4189-a2db-eced6b99efcf" />
+
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/d0a543be-43e1-41f0-af57-9311ad26eb7e" />
+
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/be357411-eb33-4925-9f9b-ecec410dd00b" />
+
+<img width="1912" height="979" alt="image" src="https://github.com/user-attachments/assets/6b980189-dcd4-45b4-900d-bee8b09da35b" />
+
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/dca34c6b-b9ba-4889-8977-d14cea758881" />
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/eed34eb3-0452-4371-aaa6-047b1d4ca585" />
+
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/67a2166e-1b49-43a9-b826-dba5f340539e" />
+
+<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/ecf411ee-d04a-44eb-9aeb-3063101824fa" />
 
 # DNS Enumeration
 
